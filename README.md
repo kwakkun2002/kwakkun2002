@@ -5,6 +5,9 @@
 - Jetpack Compose
 - 인공지능
 
+#### 부계정 Gael-Android
+[Gael-Android](https://github.com/Gael-Android)
+
 
 🛠️ 기술스택
 
