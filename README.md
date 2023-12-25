@@ -8,9 +8,7 @@
 
 🛠️ 기술스택
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white"/> 
 
 💪🏼 도구들
 
