@@ -26,7 +26,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwakkun2002)](https://solved.ac/kwakkun2002/)  
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwakkun2002&layout=compact)](https://github.com/kwakkun2002/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gael-Android&layout=compact)](https://github.com/Gael-Android/github-readme-stats)
 
